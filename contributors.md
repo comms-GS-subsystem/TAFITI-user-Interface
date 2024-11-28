@@ -1,2 +1,2 @@
-NAME                             SUBSYSTEM                                   UNIVERSITY
-1.FRANDEL WANJAWA                  COMMS AND GS                                JKUAT
+1.NAME                             SUBSYSTEM                                   UNIVERSITY
+2.FRANDEL WANJAWA                  COMMS AND GS                                JKUAT
